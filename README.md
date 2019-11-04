@@ -8,7 +8,7 @@ Follow the next steps to use the program:
   
     pip install bs4
     pip install newspaper3k
-  3. Open the repository folder
+  3. Open the repository folder in your terminal
   4. Type in your terminal: python elpaisScrap.py
   5. Follow the program instuctions
   6. The program will save a new .txt in the repository folder with the date that you have indicated
