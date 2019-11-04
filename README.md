@@ -6,8 +6,8 @@ Follow the next steps to use the program:
   1. Clone or download the repository to your computer.
   2. Install the required libraries using "pip": 
   
-    - bs4: pip install bs4
-    - newspaper: pip install newspaper3k
+    pip install bs4
+    newspaper: pip install newspaper3k
   3. Open the repository folder
   4. Type in your terminal: python elpaisScrap.py
   5. Follow the program instuctions
