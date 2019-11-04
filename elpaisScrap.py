@@ -68,7 +68,7 @@ def elpaisScrapEarly(year, month, day):
 
     # extract text and save in .txt
 
-    file = "news" + str(year) + "-" + str(month) + "-" + str(day) + "-" + gap + ".txt"
+    file = "news" + str(year) + "-" + str(month) + "-" + str(day) + ".txt"
     print("a file with the " + file + " name will be saved")
     for i in goodLinks:
         if i[0] != "h":
