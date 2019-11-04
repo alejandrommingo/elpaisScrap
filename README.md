@@ -5,6 +5,7 @@ Web scrapper to download news from el Pais newspaper library. This web scrapper 
 Follow the next steps to use the program:
   1. Clone or download the repository to your computer.
   2. Install the required libraries using "pip": 
+  
     - bs4: pip install bs4
     - newspaper: pip install newspaper3k
   3. Open the repository folder
